@@ -41,5 +41,3 @@ class MyString:
       return 0
     else:
       return len(sentence_count) -1
-
-# re.split("\.+|\?|\!+", self._value)
